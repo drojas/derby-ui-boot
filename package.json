@@ -1,14 +1,14 @@
 {
   "name": "derby-ui-boot",
-  "description": "A Derby component library based on Twitter Bootstrap.",
+  "description": "A Derby component library based on Twitter Bootstrap 3.",
   "version": "0.1.0alpha1",
   "homepage": "http://derbyjs.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-ui-boot.git"
+    "url": "git://github.com/drojas/derby-ui-boot.git"
   },
   "dependencies": {
-    "bootstrap": "git://github.com/twitter/bootstrap.git"
+    "bootstrap": "git://github.com/twitter/bootstrap.git#v3.0.0-rc1"
   },
   "devDependencies": {},
   "optionalDependencies": {},
